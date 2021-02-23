@@ -1,16 +1,12 @@
-### Hi there 👋
+<body>
+  
+<p><h1 align = center>Hi there 👋</h1></p>
+- <p>📚 I am currently learning typescript, mongo DB, php, unity and the js stack.</p>
+- <p>💬 Ask me about Back-end development and Game dev.</p>
+- <p>🔏 I am studing ethical hacking in the pentesting area.</p>
+- <p>💻 I really like coding and studig cyber security.</p>
+- <p>👾 I want to work in the cyber security area.</p>
+- <p>📫 How to reach me: reverserealitybb@gmail.com.</p>
+- <p>⚡ Fun fact: I started coding when I was nine.</p>
 
-<!--
-**bernardobrust/bernardobrust** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</body>
