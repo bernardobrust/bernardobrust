@@ -1,12 +1,11 @@
 # Hi there, I'm Bernardo Brust
 
-I'm a developer that, for some reason, likes **numerical methods**, **optimization**, and **math**. 
+I'm a developer that, for some reason, likes **numerical methods**, **optimization**, **math** and **compilers**. 
 
-### Tech and Philosophy
-* **Minimalism:** I like clean and efficient code in everything I do (though I'm still psyching myself up for a *Linux From Scratch* build).
-* **Problem Solving:** (Kind of) Active on Codewars and always looking for a more optimized solution (or doing code golf).
+### Minimalism:
+I like clean and efficient code in everything I do, so I try to stay true to mathematical elegance.
 
-[![Codewars Badge](https://www.codewars.com/users/bernardobrust/badges/large)](https://www.codewars.com/users/bernardobrust)
+Moreover, I do like the simplicity of monochrome color schemes, window managers and simple ricing in linux builds.
 
 ---
 
