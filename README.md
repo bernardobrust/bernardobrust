@@ -1,14 +1,20 @@
-# Hi there, I'm Bernardo Brust
+# Greetings, I am Bernardo Brust
 
-I'm a developer that, for some reason, likes **numerical methods**, **optimization**, **math** and **compilers**. 
+### Programming Languages
+I main **C** and **Uiua** because small is law: we either have small binary sizes, or we have small source code sizes.
 
-### Minimalism:
-I like clean and efficient code in everything I do, so I try to stay true to mathematical elegance.
+### Code Editor
+Convinced by Tsoding's teachings, I now regard **Emacs** as unreasonably effective.
 
-Moreover, I do like the simplicity of monochrome color schemes, window managers and simple ricing in linux builds.
+### Recreational Programming
+Programming should be **enjoyable**!  
+Code golf, esoteric experiments, and strange ideas keep the curious mind sharp and alive.
+
+### Education
+Currently pursuing a degree in **Computer Engineering** at **UERJ – IPRJ** (Instituto Politécnico).
 
 ---
 
-### Other Pages
-* [**GitLab**](https://gitlab.com/bernardobrust) (Additional projects & mirrors)
-* Personal website on the TODO list
+### Other Presences
+- [**GitLab**](https://gitlab.com/bernardobrust) — Additional projects here
+- Personal website → currently on the training list (TODO)
