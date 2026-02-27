@@ -11,8 +11,8 @@ Welcome to my little corner of GitHub — a place where curiosity wins, experime
 - Rewrite from scratch and publish here if it works (even if partially)
 
 ## 🧩 Tech I enjoy
-- Languages that make you think (C, Haskell, APL, Scheme)
-- High customization (Emacs, Arch Linux)
+- Languages that make you think (C, Haskell, APL, Scheme, etc.)
+- High customization (Linux, i3, etc.)
 - Anything that rewards understanding over memorization
 
 ## 🧠 Warning
