@@ -1,16 +1,21 @@
-## Hi there 👋
+# The "I do it because it's fun" guy
 
-<!--
-**bernardobrust/bernardobrust** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my little corner of GitHub — a place where curiosity wins, experiments multiply, and “why not?” is a perfectly valid design document.
 
-Here are some ideas to get you started:
+> Fun first. Learning always. Polish… eventually.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 How I work
+- Get good idea
+- Prototype fast
+- Refactor later
+- Rewrite from scratch and publish here if it works (even if partially)
+
+## 🧩 Tech I enjoy
+- Languages that make you think (C, Haskell, APL, Scheme)
+- High customization (Emacs, Arch Linux)
+- Anything that rewards understanding over memorization
+
+## 🧠 Warning
+- Code written at all points of my learning experience (so porbably unoptimal)
+- Code written for joy, not résumé points
+- Hacked together solutions
