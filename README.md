@@ -10,9 +10,9 @@ Welcome to my little corner of GitHub — a place where curiosity wins, experime
 - Refactor later
 - Rewrite from scratch and publish here if it works (even if partially)
 
-## 🧩 Tech I enjoy
-- Languages that make you think (C, Haskell, APL, Scheme, etc.)
-- High customization (Linux, i3, etc.)
+## 🧩 What I enjoy
+- Projects that make you think outside the box
+- High customization / versatility
 - Anything that rewards understanding over memorization
 
 ## 🧠 Warning
