@@ -16,7 +16,7 @@ Tools & Technologies I Work With:
 Human Languages:
 - Brazilian Portuguese: Native
 - English: Near native (started learning when I was 5)
-- German: Learning as a hobby, still very new to it
+- Japanese: Learning as a hobby, still very new to it
 
 Personal Preferences/Opinions:
 - AI usage: Accessory, can really help get the grunt work out of the way, learn codebases faster or find tricky bugs if you're stuck
